@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 71e72abe-7c5c-3c56-ddae-e4e2768014e3
 ---
@@ -34,7 +36,7 @@ The textbook for this course is:
 
 Wei, Li, ed. _The Bilingualism Reader_. 2nd ed. Routledge, 2007. ISBN: 9780415355551.
 
-Additional readings can be found in the [Readings](http://ocw2.mit.edu/courses/linguistics-and-philosophy/24-906j-linguistic-studies-of-bilingualism-fall-2012/readings/) section.
+Additional readings can be found in the [Readings]({{< baseurl >}}/pages/readings) section.
 
 There will be weekly assigned readings. Students must do **all** the assigned readings before class. This class will be run as a seminar in which **everyone** participates and contributes his/her ideas, conjectures, hypotheses and/or observations. This will not be a standard lecture class in which the instructor lectures to the class and the class takes notes.
 
