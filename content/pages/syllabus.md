@@ -50,7 +50,7 @@ Late work is **unacceptable** since your assignments are designed to feed direct
 
 ### CI-H
 
-This is a [CI-H](http://web.mit.edu/commreq/index.html) class. What does this mean? One thing it means is that we take your ability to **write** very seriously. You will have lots of opportunities to write in this class. Each assignment will involve writing. Your final project will also provide ample opportunity for extended prose as well as practice in editing and revision.
+This is a {{% resource_link "492e8a74-64cb-4bc5-b660-35724192ac3f" "CI-H" %}} class. What does this mean? One thing it means is that we take your ability to **write** very seriously. You will have lots of opportunities to write in this class. Each assignment will involve writing. Your final project will also provide ample opportunity for extended prose as well as practice in editing and revision.
 
 Each of your assignments will be commented on both in terms of what you have written as well as how you have written it. The professor will work with you throughout the semester to help you develop good writing practices. Lots of time and attention will be devoted to this aspect of the class. Please take advantage of all of these opportunities.
 
