@@ -22,7 +22,7 @@ Assignment 2
 
 Read the following article:
 
-Holowka, Siobhan, Francoise Brosseau-Lapré, et al. "{{% resource_link "07240a31-44d2-41c2-a5fe-df045b30d442" "Semantic and Conceptual Knowledge Underlying Bilingual Babies' First Signs and Words" %}}." _Language Learning_ 52, no. 2 (2002): 205–62.
+Holowka, Siobhan, Francoise Brosseau-Lapré, et al. "[Semantic and Conceptual Knowledge Underlying Bilingual Babies' First Signs and Words](http://dx.doi.org/10.1111/0023-8333.00184)." _Language Learning_ 52, no. 2 (2002): 205–62.
 
 For this assignment, consider the claim made by the authors with respect to how infants exposed to two languages acquire the meanings of words in their two languages. Consider the experimental evidence advanced to support their hypotheses.
 
